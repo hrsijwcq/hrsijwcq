@@ -11,13 +11,10 @@
 
 # javafx-boot
 
-- [Gitee](https://gitee.com/westinyang/javafx-boot) 
-- [Gtihub](https://github.com/westinyang/javafx-boot)
 
 ## 介绍
 JavaFx+SpringBoot快速开始脚手架，应用示例。非SpringBoot版本请移步至该仓库：[javafx-start](https://gitee.com/westinyang/javafx-start)
 
-> 参考资料：https://segmentfault.com/a/1190000014037443
 
 Maven插件
 - [springboot-javafx-support](https://github.com/roskenet/springboot-javafx-support)
